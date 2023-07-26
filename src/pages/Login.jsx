@@ -1,4 +1,4 @@
-import React from 'react';
+'import React '
 import { createClient } from '@supabase/supabase-js';
 import { Auth } from '@supabase/auth-ui-react';
 import { useNavigate } from 'react-router-dom';
