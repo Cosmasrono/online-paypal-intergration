@@ -28,8 +28,8 @@ function App() {
         </Routes>
         <footer>
           <div className="flex items-center justify-center flex-col">
-            <p className="text-gray-500 text-sm">©cossi PayPal. All rights reserved.</p>
-            <p className="text-gray-500 text-sm">Privacy Legal Policy updates</p>
+            <p className="text-gray-900 text-sm">©cossi PayPal. All rights reserved.</p>
+            <p className="text-gray-900 text-sm">Privacy Legal Policy updates</p>
           </div>
         </footer>
       </>
